@@ -9,7 +9,7 @@ const nextConfig = {
           name: 'header',
           filename: 'static/chunks/remoteEntry.js',
           exposes: {
-              './AppBarComponent': 'D:/WebstormProjects/sport_app/header/src/components/AppBarComponent.tsx',
+              './AppBarComponent': 'src/components/AppBarComponent.tsx',
           },
           shared: {
               '@material-ui/styles': {
